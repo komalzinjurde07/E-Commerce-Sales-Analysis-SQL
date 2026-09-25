@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,country,city,signup_date,plan,mrr
+1001,Daniel,Evans,daniel.evans1001@example.com,Canada,Toronto,2024-07-01,Business,299.00
+1002,Aisha,Young,aisha.young1002@example.com,Mexico,Mexico City,2024-07-08,Pro,99.00
+1003,Olga,Reed,olga.reed1003@example.com,France,Paris,2024-07-16,Business,299.00
+1004,Michael,Walker,michael.walker1004@example.com,Brazil,Sao Paulo,2024-07-23,Free,0.00
+1005,Sharon,Lopez,sharon.lopez1005@example.com,United States,Seattle,2024-07-30,Starter,29.00
+1006,Aisha,Morgan,aisha.morgan1006@example.com,United Arab Emirates,Dubai,2024-08-07,Pro,99.00
+1007,Sharon,Morris,sharon.morris1007@example.com,United States,Seattle,2024-08-14,Pro,99.00
+1008,Susan,Patel,susan.patel1008@example.com,United Arab Emirates,Dubai,2024-08-22,Pro,99.00
+1009,Sandra,Roberts,sandra.roberts1009@example.com,Italy,Milan,2024-08-29,Pro,99.00
+1010,Richard,Baker,richard.baker1010@example.com,United States,Miami,2024-09-05,Pro,99.00
+1011,Fatima,Rivera,fatima.rivera1011@example.com,United Kingdom,London,2024-09-13,Starter,29.00
+1012,Mei,Walker,mei.walker1012@example.com,United States,Chicago,2024-09-20,Business,299.00
+1013,Anna,Perez,anna.perez1013@example.com,New Zealand,Auckland,2024-09-27,Starter,29.00
+1014,Donna,Ward,donna.ward1014@example.com,Poland,Warsaw,2024-10-05,Pro,99.00
+1015,Dorothy,Hall,dorothy.hall1015@example.com,Poland,Warsaw,2024-10-12,Pro,99.00
+1016,Richard,Rodriguez,richard.rodriguez1016@example.com,Poland,Warsaw,2024-10-19,Free,0.00
+1017,Kimberly,Sanchez,kimberly.sanchez1017@example.com,United Kingdom,Manchester,2024-10-27,Pro,99.00
+1018,Omar,Morris,omar.morris1018@example.com,Japan,Tokyo,2024-11-03,Business,299.00
+1019,Benjamin,Turner,benjamin.turner1019@example.com,United States,Austin,2024-11-11,Business,299.00
+1020,Michelle,Baker,michelle.baker1020@example.com,Poland,Warsaw,2024-11-18,Pro,99.00
+1021,Gary,King,gary.king1021@example.com,United States,Chicago,2024-11-25,Pro,99.00
+1022,Carol,Jones,carol.jones1022@example.com,India,Mumbai,2024-12-03,Business,299.00
+1023,Amy,Cook,amy.cook1023@example.com,Germany,Munich,2024-12-10,Pro,99.00
+1024,Barbara,Rivera,barbara.rivera1024@example.com,United Kingdom,London,2024-12-17,Pro,99.00
+1025,Amy,Singh,amy.singh1025@example.com,Brazil,Sao Paulo,2024-12-25,Business,299.00
+1026,Priya,Turner,priya.turner1026@example.com,India,Bengaluru,2025-01-01,Pro,99.00
+1027,Emily,Hill,emily.hill1027@example.com,Canada,Vancouver,2025-01-08,Pro,99.00
+1028,Angela,Moore,angela.moore1028@example.com,United Kingdom,London,2025-01-16,Pro,99.00
+1029,Nicholas,Collins,nicholas.collins1029@example.com,India,Mumbai,2025-01-23,Enterprise,6900.00
+1030,Pamela,Adams,pamela.adams1030@example.com,Germany,Munich,2025-01-31,Pro,99.00
+1031,Donald,White,donald.white1031@example.com,Australia,Sydney,2025-02-07,Business,299.00
+1032,Christopher,Moore,christopher.moore1032@example.com,India,Mumbai,2025-02-14,Pro,99.00
+1033,Brenda,Kim,brenda.kim1033@example.com,Netherlands,Amsterdam,2025-02-22,Pro,99.00
+1034,James,Scott,james.scott1034@example.com,United States,Austin,2025-03-01,Pro,99.00
+1035,Jessica,Morales,jessica.morales1035@example.com,Mexico,Mexico City,2025-03-08,Free,0.00
+1036,Wei,Miller,wei.miller1036@example.com,Australia,Sydney,2025-03-16,Free,0.00
+1037,Pamela,Wang,pamela.wang1037@example.com,United States,Austin,2025-03-23,Starter,29.00
+1038,Nicole,Martin,nicole.martin1038@example.com,United States,Denver,2025-03-30,Free,0.00
+1039,Aisha,Morris,aisha.morris1039@example.com,United States,Miami,2025-04-07,Pro,99.00
+1040,Mary,Martin,mary.martin1040@example.com,Poland,Warsaw,2025-04-14,Starter,29.00
+1041,Jeffrey,Gutierrez,jeffrey.gutierrez1041@example.com,United States,Seattle,2025-04-22,Free,0.00
+1042,Paul,Gomez,paul.gomez1042@example.com,Japan,Tokyo,2025-04-29,Pro,99.00
+1043,Nancy,Mitchell,nancy.mitchell1043@example.com,France,Paris,2025-05-06,Pro,99.00
+1044,Patricia,Chen,patricia.chen1044@example.com,United States,Denver,2025-05-14,Pro,99.00
+1045,Lisa,Khan,lisa.khan1045@example.com,Mexico,Mexico City,2025-05-21,Starter,29.00
+1046,Ronald,Cruz,ronald.cruz1046@example.com,United States,Boston,2025-05-28,Business,299.00
+1047,Jason,Robinson,jason.robinson1047@example.com,United States,Denver,2025-06-05,Free,0.00
+1048,Chloe,Williams,chloe.williams1048@example.com,United Arab Emirates,Dubai,2025-06-12,Pro,99.00
+1049,Alexander,Harris,alexander.harris1049@example.com,United Kingdom,London,2025-06-19,Enterprise,8400.00
+1050,Scott,Wright,scott.wright1050@example.com,India,Bengaluru,2025-06-27,Pro,99.00
+1051,Steven,Rodriguez,steven.rodriguez1051@example.com,United Arab Emirates,Dubai,2025-07-04,Pro,99.00
+1052,Karen,Wilson,karen.wilson1052@example.com,United States,Miami,2025-07-12,Business,299.00
+1053,Omar,Smith,omar.smith1053@example.com,France,Paris,2025-07-19,Business,299.00
+1054,Richard,Shah,richard.shah1054@example.com,United States,Boston,2025-07-26,Free,0.00
+1055,Mei,White,mei.white1055@example.com,United Arab Emirates,Dubai,2025-08-03,Starter,29.00
+1056,Hana,Thomas,hana.thomas1056@example.com,Mexico,Mexico City,2025-08-10,Pro,99.00
+1057,Katherine,Rogers,katherine.rogers1057@example.com,Netherlands,Amsterdam,2025-08-17,Business,299.00
+1058,Mary,Clark,mary.clark1058@example.com,France,Paris,2025-08-25,Pro,99.00
+1059,Amy,Campbell,amy.campbell1059@example.com,Canada,Toronto,2025-09-01,Pro,99.00
+1060,Kevin,Morris,kevin.morris1060@example.com,New Zealand,Auckland,2025-09-08,Pro,99.00
+1061,Jacob,Stewart,jacob.stewart1061@example.com,Mexico,Mexico City,2025-09-16,Pro,99.00
+1062,Donna,Khan,donna.khan1062@example.com,New Zealand,Auckland,2025-09-23,Starter,29.00
+1063,Anna,Ramos,anna.ramos1063@example.com,United States,Denver,2025-10-01,Pro,99.00
+1064,Stephanie,Moore,stephanie.moore1064@example.com,Italy,Milan,2025-10-08,Pro,99.00
+1065,Benjamin,Torres,benjamin.torres1065@example.com,United Arab Emirates,Dubai,2025-10-15,Pro,99.00
+1066,Omar,Wang,omar.wang1066@example.com,New Zealand,Auckland,2025-10-23,Business,299.00
+1067,Jason,Kim,jason.kim1067@example.com,Australia,Sydney,2025-10-30,Pro,99.00
+1068,Yuki,Howard,yuki.howard1068@example.com,South Africa,Cape Town,2025-11-06,Business,299.00
+1069,Chloe,Stewart,chloe.stewart1069@example.com,United States,Miami,2025-11-14,Free,0.00
+1070,Nicole,Roberts,nicole.roberts1070@example.com,South Africa,Cape Town,2025-11-21,Business,299.00
+1071,Kathleen,Thomas,kathleen.thomas1071@example.com,Germany,Berlin,2025-11-28,Pro,99.00
+1072,Jacob,Martin,jacob.martin1072@example.com,Brazil,Sao Paulo,2025-12-06,Enterprise,3900.00
+1073,James,Khan,james.khan1073@example.com,United States,Seattle,2025-12-13,Pro,99.00
+1074,Melissa,Garcia,melissa.garcia1074@example.com,United States,Denver,2025-12-21,Pro,99.00
+1075,Dorothy,Walker,dorothy.walker1075@example.com,Canada,Toronto,2025-12-28,Enterprise,8100.00
+1076,Emily,Mitchell,emily.mitchell1076@example.com,France,Paris,2026-01-04,Starter,29.00
+1077,Samuel,Hall,samuel.hall1077@example.com,Netherlands,Amsterdam,2026-01-12,Enterprise,4500.00
+1078,Donna,Hill,donna.hill1078@example.com,Japan,Tokyo,2026-01-19,Business,299.00
+1079,Deborah,Peterson,deborah.peterson1079@example.com,United Arab Emirates,Dubai,2026-01-26,Starter,29.00
+1080,Lisa,Gomez,lisa.gomez1080@example.com,India,Bengaluru,2026-02-03,Free,0.00
+1081,Eric,Diaz,eric.diaz1081@example.com,Italy,Milan,2026-02-10,Starter,29.00
+1082,Jeffrey,Rogers,jeffrey.rogers1082@example.com,United States,Chicago,2026-02-17,Pro,99.00
+1083,Donald,Ramos,donald.ramos1083@example.com,United States,Boston,2026-02-25,Free,0.00
+1084,Matthew,Nguyen,matthew.nguyen1084@example.com,United States,Miami,2026-03-04,Starter,29.00
+1085,Donna,Chen,donna.chen1085@example.com,Canada,Toronto,2026-03-12,Pro,99.00
+1086,Margaret,Flores,margaret.flores1086@example.com,New Zealand,Auckland,2026-03-19,Pro,99.00
+1087,Margaret,Morris,margaret.morris1087@example.com,United Kingdom,London,2026-03-26,Pro,99.00
+1088,Barbara,Scott,barbara.scott1088@example.com,France,Paris,2026-04-03,Pro,99.00
+1089,Anthony,Walker,anthony.walker1089@example.com,Poland,Warsaw,2026-04-10,Starter,29.00
+1090,Richard,Walker,richard.walker1090@example.com,United States,Seattle,2026-04-17,Business,299.00
+1091,Omar,Torres,omar.torres1091@example.com,Germany,Munich,2026-04-25,Business,299.00
+1092,Rachel,Murphy,rachel.murphy1092@example.com,Canada,Toronto,2026-05-02,Starter,29.00
+1093,Margaret,Gomez,margaret.gomez1093@example.com,New Zealand,Auckland,2026-05-09,Free,0.00
+1094,Jason,Jackson,jason.jackson1094@example.com,India,Mumbai,2026-05-17,Business,299.00
+1095,Amanda,Howard,amanda.howard1095@example.com,United Kingdom,Manchester,2026-05-24,Starter,29.00
+1096,Kevin,Kim,kevin.kim1096@example.com,Spain,Madrid,2026-06-01,Business,299.00
+1097,Ryan,Kelly,ryan.kelly1097@example.com,New Zealand,Auckland,2026-06-08,Enterprise,6300.00
+1098,Aisha,Scott,aisha.scott1098@example.com,Japan,Tokyo,2026-06-15,Business,299.00
+1099,Debra,Flores,debra.flores1099@example.com,Germany,Berlin,2026-06-23,Starter,29.00
+1100,Rebecca,Rodriguez,rebecca.rodriguez1100@example.com,United States,Miami,2026-06-30,Free,0.00
